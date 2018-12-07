@@ -1,4 +1,4 @@
-# operating-system
+## Operating System
 
 1. Write programs using the following system calls of UNIX operating system: fork, exec, getpid, exit, wait, close, stat, opendir, readdir<br>
 2. Write programs using the I/O System calls of UNIX operating system (open, read, write, etc.).<br>
