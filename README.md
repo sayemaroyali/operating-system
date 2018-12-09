@@ -9,4 +9,4 @@
 7. Implement the Producer-Consumer problem using semaphores (using UNIX system calls).<br>
 8. Implement Memory management schemes like paging and segmentation.<br>
 9. Implement Memory management schemes like First fit, Best fit and Worst fit.<br>
-10.Implement any file allocation techniques (Contiguous, Linked or Indexed).<br>
+10.Implement any file allocation techniques (Contiguous, Linked or Indexed).
